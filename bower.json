@@ -1,0 +1,28 @@
+{
+  "name": "simple-assi-animation",
+  "description": "Simple less animation engine",
+  "main": "animation.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assitnewssed/simple-assi-animation.git"
+  },
+  "keywords": [
+    "animation",
+    "javascript",
+    "CSS",
+    "transforms",
+    "SVG",
+    "canvas"
+  ],
+  "authors": [
+    "Julian Garnier <hello@julian.gr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

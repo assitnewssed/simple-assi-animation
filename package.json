@@ -1,0 +1,41 @@
+{
+  "name": "simple-assi-animation",
+  "version": "1.0.0",
+  "homepage": "https://github.com/assitnewssed/simple-assi-animation.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assitnewssed/simple-assi-animation.git"
+  },
+  "description": "Simple less animation engine",
+  "umd:main": "lib/animation.min.js",
+  "module": "lib/animation.es.js",
+  "main": "lib/animation.js",
+  "umd:name": "animation",
+  "license": "MIT",
+  "author": "Assitnewssed",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "node build"
+  },
+  "bugs": {
+    "url": "https://github.com/assitnewssed/simple-assi-animation/issues"
+  },
+  "keywords": [
+    "animation",
+    "transforms",
+    "SVG",
+    "canvas"
+  ],
+  "dependencies": {
+    "analsorhost-simple-bs": "^1.0.0"
+  },
+  "devDependencies": {
+    "gzip-size": "^4.1.0",
+    "pretty-bytes": "^4.0.2",
+    "rollup": "^0.53.2",
+    "rollup-plugin-buble": "^0.18.0",
+    "uglify-js": "^3.3.4"
+  }
+}
