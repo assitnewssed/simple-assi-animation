@@ -1,6 +1,6 @@
 {
   "name": "simple-assi-animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/assitnewssed/simple-assi-animation.git",
   "repository": {
     "type": "git",
@@ -13,9 +13,6 @@
   "umd:name": "animation",
   "license": "MIT",
   "author": "Assitnewssed",
-  "files": [
-    "lib"
-  ],
   "scripts": {
     "build": "node build"
   },
